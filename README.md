@@ -4,4 +4,8 @@ A dark theme for [Base16](http://chriskempson.com/projects/base16/) inspired by
 the R package [Wes Anderson Palettes](https://github.com/karthik/wesanderson)
 and the beautiful colors in the movies by the director Wes Anderson.
 
-## Scheme Previews
+## Asteroid City (2023)
+
+![Asteroid City screenshot](asteroid-city-screen.png)
+!Asteroid City preview](asteroid-city-preview.png)
+
