@@ -7,5 +7,5 @@ and the beautiful colors in the movies by the director Wes Anderson.
 ## Asteroid City (2023)
 
 ![Asteroid City screenshot](asteroid-city-screen.png)
-!Asteroid City preview](asteroid-city-preview.png)
+![Asteroid City preview](asteroid-city-preview.png)
 
