@@ -12,10 +12,10 @@ the movies by the director Wes Anderson.
 
 ## Bottle Rocket (1996)
 
-![Bottle Rocket screenshot](bottle-rocket-screen.png)
+![Bottle Rocket screenshot](bottle-rocket-screen.jpg)
 ![Bottle Rocket preview](bottle-rocket.preview.png)
 
 ## Darjeeling Limited (2007)
 
-![Darjeeling LImited screenshot](darjeeling-limited-screen.png)
+![Darjeeling LImited screenshot](darjeeling-limited-screen.jpg)
 ![Darjeeling LImited preview](darjeeling-limited-preview.png)
